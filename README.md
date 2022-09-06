@@ -1,6 +1,6 @@
-# galauclient
+# galau jikan fm radio client
 
-This template should help get you started developing with Vue 3 in Vite.
+experimental repo for galau jikan fm radio client
 
 ## Recommended IDE Setup
 
