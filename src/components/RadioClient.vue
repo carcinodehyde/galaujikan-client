@@ -16,17 +16,17 @@ import ChatBox from "./ChatBox.vue";
             </div>
             <div class="centercontent">
               <!-- <a href="#" class="btn btn-primary"><i class="fa fa-backward" style="color: white;"></i></a> -->
-              <a href="#" class="btn">
+              <div class="btn">
                 <i class="fa fa-stop" style="color: white;"></i>
                 <span aria-hidden class="btn__glitch"><i class="fa fa-stop" style="color: white;"></i></span>
                 <span aria-hidden class="btn__tag">Stop</span>
-              </a>
+              </div>
 
-              <a href="#" class="btn">
+              <div class="btn">
                 <i class="fa fa-play" style="color: white;"></i>
                 <span aria-hidden class="btn__glitch"><i class="fa fa-play" style="color: white;"></i></span>
                 <span aria-hidden class="btn__tag">Play</span>
-              </a>
+              </div>
               <!-- <a href="#" class="btn btn-primary"><i class="fa fa-pause" style="color: white;"></i></a> -->
               <!-- <a href="#" class="btn btn-primary"><i class="fa fa-forward" style="color: white;"></i></a> -->
             </div> 
