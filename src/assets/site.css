@@ -352,6 +352,7 @@ body {
   }
   
   .columns .item {
+    min-width: 45%;
     padding: 1.5625em;
     max-width: 47%;
     background: #b1dbf0;
